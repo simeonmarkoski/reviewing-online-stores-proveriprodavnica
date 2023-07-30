@@ -1,0 +1,19 @@
+{
+    "name": "sime/extension-site",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mihail-8480",
+            "email": "mihail-mojsoski@outlook.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.10",
+      "ext-json": "*"
+    },
+    "config": {
+        "platform": {
+            "php": "7.0.33"
+        }
+    }
+}
